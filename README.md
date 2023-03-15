@@ -11,3 +11,7 @@
 
 ### 💡 Основные компетенции 
 - Инструменты: Matlab, C++, Python
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](NadezdaPachina)
+- [Kaggle]()
