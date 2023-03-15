@@ -13,5 +13,5 @@
 - Инструменты: Matlab, C++, Python
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](@NadezdaPachina)
+- [Telegram](tg@NadezdaPachina)
 - [Kaggle]()
