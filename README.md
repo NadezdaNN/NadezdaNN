@@ -12,7 +12,7 @@
 ### 💡 Основные компетенции 
 - Инструменты: Matlab, C++, Python
 - 
-### Моё резюме на март 2023 года [на hh.ru](https://hh.ru/applicant/resumes/view?resume=f69f5f48ff097cac0b0039ed1f446735595241)
+### 📃 Моё резюме на март 2023 года [на hh.ru](https://hh.ru/applicant/resumes/view?resume=f69f5f48ff097cac0b0039ed1f446735595241)
 
 
-### Связаться со мной можно в [Telegram](https://t.me/NadezdaPachina)
+### 👉 Связаться со мной можно в [Telegram](https://t.me/NadezdaPachina)
