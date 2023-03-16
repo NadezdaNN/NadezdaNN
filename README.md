@@ -3,8 +3,8 @@
 ### 👀 Обо мне
 * 🎓 Образование:
   - ННГУ им. Н.И. Лобачевского, Нижний Новгород
-  - Механико-математический факультет
-  - Магистр прикладной математики и информатики
+  - Механико-математический факультет (Магистр)
+  - Специализация "Математическое моделирование"
 * Программирую на Python
 * Изучаю Data Science  
 * Люблю рыбалку 🐟 🐟
@@ -13,6 +13,26 @@
 - Инструменты: Matlab, C++, Python
 - Soft skills: критическое мышление, обучаемость, дружелюбие.
 
-### 📃 Моё резюме на март 2023 года [на hh.ru](https://hh.ru/applicant/resumes/view?resume=f69f5f48ff097cac0b0039ed1f446735595241)
+### 📃 Моё резюме на март 2023 года [Резюме](https://docs.google.com/document/d/1js8vVhQs6h-P6nieRJN_LOfQU7XCFZLUcN1iOLC6Yck/edit?usp=sharing)
 
 ### 👉 Связаться со мной можно в [Telegram](https://t.me/NadezdaPachina)
+
+---
+### I'm Pachina Nadezda 😺 😺
+
+### 👀 About me
+* 🎓 Education:
+ - Lobachevsky State University of Nizhny Novgorod
+ - Faculty of Mechanics and Mathematics (Master's degree)
+ - Specialization "Mathematical Modeling"
+* I program in Python
+* Studying Data Science
+* I love fishing 🐟 🐟
+
+### 💡 Core competencies
+- Tools: Matlab, C++, Python
+- Soft skills: Critical thinking, Learning, Friendly
+
+### 📃 My Resume as of June 2023 [Resume](https://docs.google.com/document/d/1js8vVhQs6h-P6nieRJN_LOfQU7XCFZLUcN1iOLC6Yck/edit?usp=sharing)
+    
+### 👉 Contact me in [Telegram](https://t.me/NadezdaPachina)
