@@ -1,5 +1,4 @@
-### Привет! 
-### Я Пачина Надежда 😺 😺
+### Привет! Я Пачина Надежда 😺 😺
 
 ### 👀 Обо мне
 * 🎓 Образование:
@@ -19,7 +18,7 @@
 ### 👉 Связаться со мной можно в [Telegram](https://t.me/NadezdaPachina)
 
 ---
-### I'm Pachina Nadezda 😺 😺
+### Hi, I'm Pachina Nadezda 😺 😺
 
 ### 👀 About me
 * 🎓 Education:
