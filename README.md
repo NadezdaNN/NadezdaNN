@@ -13,7 +13,7 @@
 - Инструменты: Matlab, C++, Python
 - Soft skills: критическое мышление, обучаемость, дружелюбие.
 
-### 📃 Моё резюме на июнь 2023 года [Резюме](https://docs.google.com/document/d/1js8vVhQs6h-P6nieRJN_LOfQU7XCFZLUcN1iOLC6Yck/edit?usp=sharing)
+### 📃 Моё резюме на ноябрь 2023 года [Резюме](https://docs.google.com/document/d/1OoozESBc20qID2iUJQw_3YB5hwr8j7y05NcS2uKCcD8/edit?usp=drive_link)
 
 ### 👉 Связаться со мной можно в [Telegram](https://t.me/NadezdaPachina)
 
